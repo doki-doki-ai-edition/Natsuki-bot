@@ -68,7 +68,7 @@ bot = Bot(command_prefix=COMMAND_PREFIX,
           owner_ids=[1063386002955190312]
         )
 
-bot.natsuki_thread_id =  1253816842624172154 # (Thread For storing messages)
+bot.natsuki_thread_id =  1254613608181137480 # (Thread For storing messages)
 
 
 
